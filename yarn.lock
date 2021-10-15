@@ -3049,6 +3049,11 @@ shell-quote@1.7.2:
   resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.2.tgz#67a7d02c76c9da24f99d20808fcaded0e0e04be2"
   integrity sha512-mRz/m/JVscCrkMyPqHc/bczi3OQHkLTqXHEFu0zDhK/qfv3UcOA4SVmRCLmos4bhjr9ekVQubj/R7waKapmiQg==
 
+sicon-os-types@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/sicon-os-types/-/sicon-os-types-1.0.0.tgz#bb20f1d6f3e238df0828eef37056e270c7c924f9"
+  integrity sha512-y7vfrAHtOajjN27FBxcdmfMmNCckMfjqrZh99jiwg2x6RDoNHkiK0eqBTA1CK/ntE1HPJ4gApJUbN86cbApFWw==
+
 side-channel@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/side-channel/-/side-channel-1.0.4.tgz#efce5c8fdc104ee751b25c58d4290011fa5ea2cf"
